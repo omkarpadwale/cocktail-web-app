@@ -8,7 +8,7 @@ const HomePage = () => {
     <div className="App">
       <header className="App-header">
          <p>
-         This is app ony for educational purpose
+         This is app ony for educational purpose by omkar
         </p>        
       </header>
     </div>
