@@ -13,12 +13,12 @@ function App() {
     <Router>
       <Switch>
         <Route exact path="/">
-          <HomePage />
+        <RandomDrink />
         </Route>
 
-        <Route exact path="/randomdrink">
+        {/* <Route exact path="/randomdrink">
           <RandomDrink />
-        </Route>
+        </Route> */}
       </Switch>
     </Router>
     <FooterSection />

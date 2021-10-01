@@ -10,9 +10,9 @@ const HeaderSection = (props) => {
     return (
         <Box display="flex" bgcolor="grey.200" p={2} alignItems="center">
           <Button style= {buttonStyle} color="primary" href='/'> Home </Button>
-          <Box >
+          {/* <Box >
             <Button style= {buttonStyle} color="secondary" href='/randomdrink'>Random Drink</Button>
-          </Box>       
+          </Box>        */}
         </Box>
       );
 };
