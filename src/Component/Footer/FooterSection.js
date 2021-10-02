@@ -8,7 +8,7 @@ const FooterSection = (props) => {
           <Container maxWidth="md">
             <Toolbar>
               <Typography variant="body1" color="primary">
-              Made with love, Omkar
+              Made by, Omkar
               </Typography>
             </Toolbar>
           </Container>
