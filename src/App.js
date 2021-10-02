@@ -13,7 +13,7 @@ function App() {
       <Router>
         <Switch>
           <Route exact path="/">
-            <HomePage />
+          <RandomDrink />
           </Route>
 
           <Route exact path="/randomdrink">
